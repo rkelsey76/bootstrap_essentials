@@ -1,0 +1,50 @@
+.branding{
+	padding: 10px;
+}
+
+.page_shadow{
+	background-image: url("img/bg_header.png");}
+	
+.jumbotron.banner_homepage{
+	background-color: #daf5ff;
+	margin-top: -20px;
+}
+
+.well.homepage_footer{
+	background: #00749f;
+	color: #fff;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+footer .row{
+	background:#004964;
+	color: #fff;
+	margin: 0;
+}
+
+footer .row a{
+	color: #fff;
+}
+
+footer p.text-muted{
+	background-color: #002d3d;
+	padding: 20px;
+	margin-bottom: 0px;
+}
+
+.search-wrapper{
+	background-color: #5cb85c;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.search-wrapper .form-group{
+	padding: 10px;
+}
+
+.navbar-inverse  {
+    background-color: #004964;
+    background-image: none !important;
+    border: none !important;
+  }
